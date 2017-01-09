@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = giovannibitar@gmail.com
-	name = John Bitar
+	email = Bitar
+	name = John
